@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\bin\Debug\net8.0\TaskManagerTest.exe
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\bin\Debug\net8.0\TaskManagerTest.deps.json
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\bin\Debug\net8.0\TaskManagerTest.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\bin\Debug\net8.0\TaskManagerTest.dll
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\bin\Debug\net8.0\TaskManagerTest.pdb
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.dll
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\refint\TaskManagerTest.dll
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.pdb
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\TaskManagerTest.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\TaskManagerTest\obj\Debug\net8.0\ref\TaskManagerTest.dll
