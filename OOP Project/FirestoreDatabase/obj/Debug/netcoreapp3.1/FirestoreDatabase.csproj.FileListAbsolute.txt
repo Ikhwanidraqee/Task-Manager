@@ -1,0 +1,5 @@
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\FirestoreDatabase\FirestoreDatabase\obj\Debug\netcoreapp3.1\FirestoreDatabase.csproj.AssemblyReference.cache
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\FirestoreDatabase\FirestoreDatabase\obj\Debug\netcoreapp3.1\FirestoreDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\FirestoreDatabase\FirestoreDatabase\obj\Debug\netcoreapp3.1\FirestoreDatabase.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\FirestoreDatabase\FirestoreDatabase\obj\Debug\netcoreapp3.1\FirestoreDatabase.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\UTP\SEP24\OO\FirestoreDatabase\FirestoreDatabase\obj\Debug\netcoreapp3.1\FirestoreDatabase.csproj.CoreCompileInputs.cache
